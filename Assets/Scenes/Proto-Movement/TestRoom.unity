@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 86027191}
   - component: {fileID: 86027190}
   - component: {fileID: 86027189}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -566,7 +566,7 @@ GameObject:
   - component: {fileID: 232596599}
   - component: {fileID: 232596598}
   - component: {fileID: 232596597}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1148,7 +1148,7 @@ GameObject:
   - component: {fileID: 575607426}
   - component: {fileID: 575607425}
   - component: {fileID: 575607424}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1253,7 +1253,7 @@ GameObject:
   - component: {fileID: 637655645}
   - component: {fileID: 637655644}
   - component: {fileID: 637655643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1441,7 +1441,7 @@ GameObject:
   - component: {fileID: 663871722}
   - component: {fileID: 663871721}
   - component: {fileID: 663871720}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1760,7 +1760,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   settings: {fileID: 923884406}
-  orientation: {fileID: 1835220598}
+  orientation: {fileID: 86778607}
 --- !u!81 &755432861
 AudioListener:
   m_ObjectHideFlags: 0
@@ -2356,7 +2356,7 @@ GameObject:
   - component: {fileID: 1082464734}
   - component: {fileID: 1082464733}
   - component: {fileID: 1082464732}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3266,7 +3266,7 @@ GameObject:
   - component: {fileID: 1753140615}
   - component: {fileID: 1753140614}
   - component: {fileID: 1753140613}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cube (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3410,7 +3410,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputActions: {fileID: 0}
   damage: 20
-  timeBetweenShooting: 1
+  timeBetweenShooting: 0
   spread: 0.1
   range: 100
   reloadTime: 2
@@ -3512,7 +3512,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputActions: {fileID: 0}
   damage: 20
-  timeBetweenShooting: 1
+  timeBetweenShooting: 0
   spread: 0.1
   range: 100
   reloadTime: 2
